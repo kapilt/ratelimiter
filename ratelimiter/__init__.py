@@ -17,7 +17,7 @@
 import sys
 
 __author__ = 'Frazer McLean <frazer@frazermclean.co.uk>'
-__version__ = '1.2.0.post0'
+__version__ = '1.2.0.post1'
 __license__ = 'Apache'
 __description__ = 'Simple python rate limiting object'
 
